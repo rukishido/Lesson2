@@ -1,0 +1,5 @@
+<resources>
+    <string translatable="false" name="app_name">Lesson2</string>
+    <string name="mainScreen_pushkinText">Sorry, there is nothing</string>
+    <string name="mainScreen_btnText">Боль и страдания</string>
+</resources>
