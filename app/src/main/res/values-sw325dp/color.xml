@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="pushkinTextColor">#FF0000</color>
+    <color name="pushkinTextColor">#000000</color>
 </resources>
